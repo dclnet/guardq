@@ -1,0 +1,4 @@
+LIBRARY mytest.dll
+EXPORTS
+ myAdd1
+ R_init_guardq

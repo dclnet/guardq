@@ -1,0 +1,14 @@
+Package: guardq
+Version: 1.0
+Date: 2021-06-22
+Title: guard Q
+Author: dclnet<w3cplus@gmail.com>
+Maintainer: dclnet<w3cplus@gmail.com>
+Depends: R (>= 3.0.0)
+Suggests: MASS
+Description: guard Q.
+License: GPL-2 | GPL-3
+NeedsCompilation: yes
+Packaged: 2021-06-22 14:58:13 UTC; ripley
+Repository: CRAN
+Date/Publication: 2021-06-22 14:59:51 UTC

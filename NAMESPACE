@@ -1,0 +1,4 @@
+useDynLib(guardq, .registration = TRUE)
+
+export(myAdd)
+export(myTestPrint)
