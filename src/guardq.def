@@ -1,4 +1,4 @@
-LIBRARY mytest.dll
+LIBRARY guardq.dll
 EXPORTS
  myAdd1
  R_init_guardq
